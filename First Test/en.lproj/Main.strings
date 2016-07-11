@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Eju-Nd-LKX"; */
+"Eju-Nd-LKX.normalTitle" = "Button";
+
+/* Class = "UISegmentedControl"; JTg-Ls-vGO.segmentTitles[0] = "First"; ObjectID = "JTg-Ls-vGO"; */
+"JTg-Ls-vGO.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; JTg-Ls-vGO.segmentTitles[1] = "Second"; ObjectID = "JTg-Ls-vGO"; */
+"JTg-Ls-vGO.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lz3-lJ-hcw"; */
+"lz3-lJ-hcw.text" = "Label";
